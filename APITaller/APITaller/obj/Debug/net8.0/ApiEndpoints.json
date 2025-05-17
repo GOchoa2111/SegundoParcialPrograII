@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "APITaller.Controllers.ClientesController",
+    "Method": "GetClientes",
+    "RelativePath": "api/clientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APITaller.Controllers.FacturasController",
+    "Method": "GetFacturas",
+    "RelativePath": "api/facturas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APITaller.Controllers.MecanicosController",
+    "Method": "GetMecanicos",
+    "RelativePath": "api/mecanicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APITaller.Controllers.RepuestosController",
+    "Method": "GetRepuestos",
+    "RelativePath": "api/repuestos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APITaller.Controllers.ServiciosController",
+    "Method": "GetServicios",
+    "RelativePath": "api/servicios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APITaller.Controllers.TallerController",
+    "Method": "GetTaller",
+    "RelativePath": "api/taller",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APITaller.Controllers.TurnosController",
+    "Method": "GetTurnos",
+    "RelativePath": "api/turnos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APITaller.Controllers.VehiculosController",
+    "Method": "GetVehiculos",
+    "RelativePath": "api/vehiculos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
